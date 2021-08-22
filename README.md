@@ -1,4 +1,4 @@
-# Rossmann_Sales_Predict
+# Rossmann-Previsao-Vendas
 
 <img src="Images/Pharmacy.png">
 Ilustração por Glenn Thomas
